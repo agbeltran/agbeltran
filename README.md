@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently leading the [Data & Software Engineering Group](https://www.scd.stfc.ac.uk/Pages/Software-Engineering-Group.aspx) at the [Scientific Computing Department](https://www.scd.stfc.ac.uk) in the [Science and Technology Facilities Council](https://stfc.ukri.org/), part of [UK Research and Innovation](https://www.ukri.org/).
 
-You can find more info about me in [my website](https://agbeltran.github.io/).
+- :information_source: You can find more info about me in [my website](https://agbeltran.github.io/).
 
 <!--
 **agbeltran/agbeltran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
