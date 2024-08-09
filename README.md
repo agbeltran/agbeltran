@@ -4,7 +4,7 @@
 
 - ⚡ I work with research data and research software. 
 
-- 🔭 I’m currently Head of Data, Computing Division, [UK Atomic Energy Authority](https://ccfe.ukaea.uk/). 
+- 🔭 I’m currently Head of Data in the Computing Division at the [UK Atomic Energy Authority](https://ccfe.ukaea.uk/), working on maximising the value derived from fusion energy data. 
 
 - :information_source: You can find more info about me in [my website](https://agbeltran.github.io/).
 
